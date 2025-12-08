@@ -4,6 +4,8 @@
 
 SOURCE: 
 
+Ruggles, Steven et al. IPUMS National Historical Geographic Information System: Version 20.0 [dataset]. Minneapolis, MN: IPUMS. 2025.  http://doi.org/10.18128/D050.V20.0
+
 #### Geographic Identifiers
 
 - **GISJOIN**: GIS Join Match Code - unique identifier for linking geographic data across datasets and GIS applications
